@@ -16,7 +16,7 @@ namespace Week5Hw5
                 FirstName = "Tolga",
                 IdentityNumber = 11111111111,
                 LastName = "Çelik",
-                DateOfBirth = new DateTime(1996, 01, 01),
+                DateOfBirth = new DateTime(1996, 1, 1),
 
             };
            

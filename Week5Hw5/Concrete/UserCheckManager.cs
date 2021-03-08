@@ -10,7 +10,7 @@ namespace Week5Hw5.Concrete
     {
         public bool Validate(User user)
         {
-            return true;
+            
         }
     }
 }
